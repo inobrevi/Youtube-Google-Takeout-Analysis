@@ -1,0 +1,84 @@
+[
+    {
+        "header": "YouTube",
+        "title": "Watched Double Skull Bowie",
+        "titleUrl": "https://www.youtube.com/watch?v=nBKwJw3rO6U",
+        "subtitles": [
+            {
+                "name": "jimmydiresta",
+                "url": "https://www.youtube.com/channel/UCiEk4xHBbz0hZNIBBpowdYQ"
+            }
+        ],
+        "time": "2023-01-31T14:14:14.011Z",
+        "products": [
+            "YouTube"
+        ],
+        "activityControls": [
+            "YouTube watch history"
+        ]
+    },
+    {
+        "header": "YouTube",
+        "title": "Watched a video that has been removed",
+        "time": "2023-09-25T16:37:43.195Z",
+        "products": [
+            "YouTube"
+        ],
+        "activityControls": [
+            "YouTube watch history"
+        ]
+    },
+    {
+        "header": "YouTube",
+        "title": "Liked This Video is in Reverse.",
+        "titleUrl": "https://www.youtube.com/watch?v=g_a3TQ9L9cM",
+        "subtitles": [
+            {
+                "name": "Eran Amir",
+                "url": "https://www.youtube.com/channel/UC_lUpneuEUzHV4IhD2JwZNQ"
+            }
+        ],
+        "time": "2023-09-20T20:17:01.538Z",
+        "products": [
+            "YouTube"
+        ],
+        "activityControls": [
+            "YouTube watch history"
+        ]
+    },
+    {
+        "header": "YouTube",
+        "title": "Watched Secret d'acteurs",
+        "titleUrl": "https://www.youtube.com/watch?v=vc_MIvoVyxs",
+        "time": "2023-04-19T19:01:22.333Z",
+        "products": [
+            "YouTube"
+        ],
+        "details": [
+            {
+                "name": "From Google Ads"
+            }
+        ],
+        "activityControls": [
+            "YouTube watch history"
+        ]
+    },
+    {
+        "header": "YouTube",
+        "title": "Disliked 🔱 If u needed a sign this is it 🔱 Check BIO",
+        "titleUrl": "https://www.youtube.com/watch?v=_x_harT-ur8",
+        "subtitles": [
+            {
+                "name": "Poseidon Originals",
+                "url": "https://www.youtube.com/channel/UCKzQMVJWmvkMW6UY8tay7Pg"
+            }
+        ],
+        "time": "2023-02-01T00:54:00.707Z",
+        "products": [
+            "YouTube"
+        ],
+        "activityControls": [
+            "YouTube watch history"
+        ]
+    }
+]
